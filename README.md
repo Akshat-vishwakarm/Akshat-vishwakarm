@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Akshat-vishwakarm
-- 👀 I’m interested in techonology
+- 👀 I’m interested in BRAIN COMPUTERING INTERFERENCE TECHONLOGY (BCI)
 - 🌱 I’m currently learning AIML
 - 💞️ I’m looking to collaborate on PYTHON
-- 📫 How to reach me akshvishwakarma@gmail.com
+- 📫 How to reach me akshvishwakarma2580@gmail.com
 - 😄 Pronouns: XY chromosome
 - ⚡ Fun fact: one piece is GOAT!!!
 
