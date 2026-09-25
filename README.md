@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://fit-track-ai-lilac.vercel.app/">🚀 FitTrack AI</a> •
-  <a href="https://[gene-guard-y4yi.vercel.app/](https://gene-guard-2-0-frontend.vercel.app/)">🧬 GeneGuard</a> •
+  <a href="https://[[gene-guard-y4yi.vercel.app/](https://gene-guard-2-0-frontend.vercel.app/)](https://gene-guard-2-0-frontend.vercel.app/)">🧬 GeneGuard</a> •
   <a href="https://supply-guard-tau.vercel.app/">📦 SecureSupply</a> •
   <a href="https://www.linkedin.com/in/akshat-pankaj-vishwakarma-8a4246327">LinkedIn</a>
 </p>
