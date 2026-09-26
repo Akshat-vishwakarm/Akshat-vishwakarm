@@ -1,4 +1,4 @@
-# 👋 Akshat Vishwakarma
+#   Akshat Vishwakarma
 
 <p align="center">
   <b>AI/ML Engineer in Progress • Full-Stack Developer • AI-Assisted Builder</b>
