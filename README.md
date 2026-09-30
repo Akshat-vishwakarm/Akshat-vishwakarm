@@ -13,7 +13,7 @@
 
 ---
 
-### 🧠 About.
+### 🧠 About
 
 🎓 **B.Tech CSE — AI & ML | 3rd Year**
 
